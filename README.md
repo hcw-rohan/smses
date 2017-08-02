@@ -84,11 +84,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Rohan Latimer** - *Initial work* - [HighCountryWeb](https://highcountryweb.com.au)
+* **Rohan Latimer** - *Initial work* - [hcw-rohan](https://github.com/hcw-rohan)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENCE.md](LICENCE.md) file for details
 
 ## Acknowledgments
 
