@@ -5,7 +5,7 @@ from slackclient import SlackClient
 from twilio.rest import Client
 
 class NotificationService(object):
-    """ Handle logic for Mount Bruno here """
+    """ Object for handling setup of SMS, Email and Slack """
     flask_app = ''
     google_config = ''
     slack_config = ''

@@ -1,6 +1,6 @@
 # SMSES Notification system
 
-Send out a message via SMS, Email and Slack. It began as a way to send messages out quickly in an area with no mobile reception but satellite internet.
+Send out a message via SMS, Email and Slack. It began as a way to send messages out quickly in an area that had mixed mobile reception and interent via Satellite and 3G. But it can also be used as a community comms tool.
 
 ## Getting Started
 
